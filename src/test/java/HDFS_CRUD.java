@@ -91,6 +91,7 @@ public class HDFS_CRUD{
 			}
 			System.out.println("-----------结束了方法----------");
 			System.out.println("-------------------------------");
+			System.out.println("hello git444");
 		}
 	}
 	@Test
