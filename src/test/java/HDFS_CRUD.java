@@ -89,7 +89,11 @@ public class HDFS_CRUD{
 					System.out.println(host);
 				}
 			}
-			System.out.println("-----------结束----------");
+			System.out.println("-----------结束了方法----------");
 		}
+	}
+	@Test
+	public void test() {
+		System.out.println("hello git");
 	}
 }
